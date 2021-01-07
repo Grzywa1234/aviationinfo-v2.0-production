@@ -6,7 +6,7 @@ Simple app created with React
 ### General Info 
 
 Purpose this app is to gather preflight informations for pilots and air traffic controllers and make my own and my colleagues life and work a little bit easier ;) 
-It was created to practise React hooks and REST API. 
+It was created to practise React hooks, REST API and Router. 
 
 ### Live version
 
